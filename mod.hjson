@@ -11,7 +11,7 @@ author: "IvyX"
 main: "moredefences.MoreDefences"
 
 #the mod description as seen in the mod dialog
-description: "A Java rewrite of MoreDefences, a mod made by IvyX and 7rodo that adds new turrets and walls to defend your core.\nProbably does not work on mobile.\nDiscord server invite: https://discord.gg/eEtw5GF2dk.[]"
+description: "A Java rewrite of MoreDefences, a mod mae by IvyX and 7rodo that adds new turrets and walls to defend your core.\nProbably does not work on mobile.\nDiscord server invite: https://discord.gg/eEtw5GF2dk.[]"
 
 #short description displayed under the title
 subtitle: "play oapp"
